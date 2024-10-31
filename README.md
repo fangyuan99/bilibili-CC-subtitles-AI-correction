@@ -14,7 +14,8 @@
 ## 安装说明
 
 1. 首先安装 [Tampermonkey](https://www.tampermonkey.net/) 浏览器扩展
-2. 点击 [安装脚本](链接到你的脚本) 将其添加到 Tampermonkey 中
+2. 点击 [安装脚本](https://github.com/fangyuan99/bilibili-CC-subtitles-AI-correction/raw/refs/heads/main/Bilibili%20CC%E5%AD%97%E5%B9%95AI%E4%BF%AE%E6%AD%A3.user.js) | [国内加速安装](https://github.site/fangyuan99/bilibili-CC-subtitles-AI-correction/raw/refs/heads/main/Bilibili%20CC%E5%AD%97%E5%B9%95AI%E4%BF%AE%E6%AD%A3.user.js) 将其添加到 Tampermonkey 中
+   
 
 ## 使用方法
 
@@ -39,7 +40,7 @@
 
 ## 注意事项
 
-- 推荐使用 `gemini-1.5-flash-002` 实测过万字的文案也可以成功修正，免费使用: https://aistudio.google.com/app/apikey （但是需要通过 one-api/new-api 等项目转为 OpenAI 格式）
+- 推荐使用 `gemini-1.5-flash-002` 实测过万字的文案也可以成功修正，免费使用: https://aistudio.google.com/app/apikey （需要通过 one-api | new-api 等项目转为 OpenAI 格式）
 - 需要视频包含 CC 字幕才能使用
 - API 调用需要确保网络能够访问 OpenAI 服务
 - 本地会保存 API 相关配置信息（不会上传到云端）

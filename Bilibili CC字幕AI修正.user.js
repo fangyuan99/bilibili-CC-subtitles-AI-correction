@@ -1,9 +1,10 @@
 // ==UserScript==
 // @name         Bilibili CC字幕AI修正
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/fangyuan99/bilibili-CC-subtitles-AI-correction
 // @version      1.2
 // @description  Fetch and correct subtitles using OpenAI API
-// @author
+// @author       fangyuan99
+// @license      MIT
 // @match        *://*.bilibili.com/*
 // @grant        none
 // @require      https://cdn.jsdelivr.net/npm/marked/marked.min.js
