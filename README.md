@@ -2,7 +2,7 @@
 
 一个用于获取并修正 B 站 CC 字幕的油猴脚本，通过 OpenAI API 自动纠正字幕中的同音错字和标点符号问题。最终可以获得一份完整的 AI 矫正过的文案
 ![image](https://github.com/user-attachments/assets/391f22f6-fae7-4345-b7bb-67fc9dae56d5)
-[示例](https://github.com/fangyuan99/bilibili-CC-subtitles-AI-correction/edit/main/README.md#示例)
+[示例](https://github.com/fangyuan99/bilibili-CC-subtitles-AI-correction/tree/main?tab=readme-ov-file#%E7%A4%BA%E4%BE%8B)
 
 ## 功能特点
 
